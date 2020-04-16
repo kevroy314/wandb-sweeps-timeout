@@ -55,4 +55,4 @@ wandb.log({"model_completed": success}) # False if the model had to stop early
 wandb.log({"f1_score": score})
 
 print(success)
-print(f1_score)
+print(score)
