@@ -2,7 +2,7 @@
 
 This example shows how to run models and log the results to Weights and Biases while allowing your models to timeout after a certain amount of time.
 
-![Demo Results]()
+![Demo Results](https://github.com/kevroy314/wandb-sweeps-timeout/raw/master/docs/demo.png)
 
 ## Setup
 
