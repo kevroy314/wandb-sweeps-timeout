@@ -1,0 +1,16 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.8.31
+    framework: sklearn
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.7
+max_depth:
+  desc: null
+  value: 16
+n_estimators:
+  desc: null
+  value: 1493

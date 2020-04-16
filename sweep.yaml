@@ -1,0 +1,12 @@
+program: train.py
+method: bayes
+metric:
+  name: f1_score
+  goal: maximize
+parameters:
+  max_depth:
+    min: 2
+    max: 20
+  n_estimators:
+    min: 10
+    max: 10000
